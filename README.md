@@ -11,9 +11,13 @@ Fichero docker-compose.yaml
 # Examen Despliegues Web
 
 Carpeta Serverless
+Arquitectura
 ![alt text](Serverless/examen.png)
+Cambios en tiempo de ejecución Lambda
 ![alt text](Serverless/tiempolambda.png)
+Cambios para aceptar enviar ficheros binarios
 ![alt text](Serverless/Ficherosapigw.png)
+
 
 
 
