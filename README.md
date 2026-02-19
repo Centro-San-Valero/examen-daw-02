@@ -12,6 +12,9 @@ Fichero docker-compose.yaml
 
 Carpeta Serverless
 ![alt text](Serverless/examen.png)
+![alt text](Serverless/tiempolambda.png)
+![alt text](Serverless/ficherosapigw.png)
+
 
 
 
